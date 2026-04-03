@@ -190,6 +190,8 @@ java matrizes.determinanteMatriz.determinanteMatriz
 
 **Objetivo:** Faça um programa que preencha uma matriz NxN e exiba a soma dos valores de cada linha e coluna.
 
+---
+
 ### 💡 **Soma de Matrizes 2x2**
 
 **Objetivo:** Faça um programa que leia duas matrizes 2x2 e exiba a soma entre elas.
