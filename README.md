@@ -1,6 +1,6 @@
 # 🔲 Manipulação e Processamento de Matrizes em Java
 
-![java-9](https://github.com/user-attachments/assets/7d272eaa-4d0d-4a30-a69a-d95fa313e49b)
+<img width="1200" height="686" alt="image" src="https://github.com/user-attachments/assets/3e3a3c96-2008-41e7-8009-74df453f0934" />
 
 Este repositório contém diversos programas em Java que exploram o uso de **matrizes (arrays bidimensionais)**, abordando operações fundamentais para o desenvolvimento de algoritmos envolvendo estruturas tabulares de dados.
 
