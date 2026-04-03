@@ -40,8 +40,7 @@ Além disso, os programas aplicam boas práticas como **modularização**, organ
 
 ## 📌 Confira meu artigo no DEV.to
 
-Para explorar mais sobre manipulação de **matrizes**, estruturas bidimensionais e operações matemáticas em Java, confira meu artigo no  
-[DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm) 🚀
+Para explorar mais sobre manipulação de **matrizes**, estruturas bidimensionais e operações matemáticas em Java, confira meu artigo no [DEV.to](https://dev.to/vitorpaiola/lista-de-exercicios-basicos-em-java-part-8-35bm) 🚀
 
 Neste artigo, compartilho exemplos práticos e soluções eficientes para manipulação de **arrays bidimensionais (`int[][]`)**, abordando operações como:
 
